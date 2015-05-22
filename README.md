@@ -1,5 +1,5 @@
 # VHDL
-FPGA (Field-Programmable Gate Array) Synthesis Laboratory - JHU
+VHDL (VHSIC Hardware Description Language) Projects for FPGA (Field-Programmable Gate Array) Synthesis Laboratory
 <br>
 <br>
 ## Description
